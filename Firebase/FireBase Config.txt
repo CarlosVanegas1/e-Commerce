@@ -1,0 +1,12 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyDQUA7sPUFlhbFQegdGCTN_9Du1tDQx76Q",
+  authDomain: "esp32-nosql.firebaseapp.com",
+  projectId: "esp32-nosql",
+  storageBucket: "esp32-nosql.appspot.com",
+  messagingSenderId: "244230807519",
+  appId: "1:244230807519:web:b9c08402cdc830b729ee6a",
+  measurementId: "G-1R6S1G31EQ"
+};
+
+Clave de API Web: AIzaSyDQUA7sPUFlhbFQegdGCTN_9Du1tDQx76Q
+Database URL:     https://esp32-nosql-default-rtdb.firebaseio.com/
